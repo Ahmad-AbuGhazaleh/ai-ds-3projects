@@ -453,7 +453,7 @@ GarageCond: Garage condition
 		
 PavedDrive: Paved driveway
 
-       Y	Paved 
+       Y	Paved
        P	Partial Pavement
        N	Dirt/Gravel
 		
